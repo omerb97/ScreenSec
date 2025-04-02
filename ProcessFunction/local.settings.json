@@ -1,0 +1,16 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "Enter your storage connection string here",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "AZURE_VISION_KEY": "<your_vision_key>",
+    "AZURE_VISION_ENDPOINT": "<your_vision_endpoint>",
+    "AZURE_OPENAI_KEY": "<your_openai_key>",
+    "AZURE_OPENAI_ENDPOINT": "<your_openai_endpoint>",
+    "AZURE_CONTENT_MODERATOR_ENDPOINT": "https://<your-region>.api.cognitive.microsoft.com",
+    "AZURE_CONTENT_MODERATOR_KEY": "your_content_moderator_key",
+    "GOOGLE_GEMINI_KEY": "<your_google_gemini_key>",
+    "GEMINI_API_ENDPOINT": "<your_gemini_api_endpoint>",
+    "AZURE_BLOB_CONNECTION_STRING": "<your_blob_connection_string>"
+  }
+}
